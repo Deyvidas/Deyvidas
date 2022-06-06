@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Deyvidas
+- 👀 I’m interested in study a python language and where/how i can use python.
+- 🌱 I’m currently learning base information about python language.
