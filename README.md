@@ -157,6 +157,3 @@
 
 - [Python разработчик](https://practicum.yandex.ru/python-developer-plus/)
 - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
-
----
-
