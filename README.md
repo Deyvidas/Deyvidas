@@ -150,10 +150,11 @@
 - [Поколение Python](https://stepik.org/course/58852/syllabus)
 - [Stepic - Инди-курс программирования на Python](https://stepik.org/course/63085/syllabus)
 - [Data Science с Глебом Михайловым](https://stepik.org/course/113596/syllabus)
+- [Python разработчик](https://practicum.yandex.ru/python-developer-plus/)
+- [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
 
 ---
 
 <h3 align="center">Изучаю</h3>
 
-- [Python разработчик](https://practicum.yandex.ru/python-developer-plus/)
-- [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
+- FastAPI
