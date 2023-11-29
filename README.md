@@ -157,4 +157,5 @@
 
 <h3 align="center">Изучаю</h3>
 
-- FastAPI
+- FastAPI;
+- SQLAlchemy.
