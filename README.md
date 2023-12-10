@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deyvidas&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Deyvidas&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
@@ -57,6 +58,41 @@
     - Как работать с переменными окружения из .env файла;
     - Как работать с модулями venv, poetry, mypy, flake8;
     - Как использовать пакеты re, sys, os, Path.
+
+</details>
+
+<details>
+    <summary>FastAPI</summary>
+
+1. __Могу:__
+    - Разворачивать приложение используя FastAPI;
+    - Создавать ручки для доступа к сущностям в БД посредством ORM SQLAlchemy;
+    - Выполнять валидацию параметров и тела запроса посредством Pydantic;
+    - Настраивать инфраструктуру для тестирования FastAPI в связке с SQLAlchemy;
+    - Тестировать ручки посредством fastapi.testclient.TestClient и pytest.
+
+</details>
+
+<details>
+    <summary>SQLAlchemy</summary>
+
+1. __Могу:__
+    - Описывать сущности используя декларативный и императивный способ описания;
+    - Настраивать, создавать и применять миграции с помощью alembic;
+    - Описывать сущности со связями, при этом исключать 1+N проблемы при запросах;
+    - Описывать расширяемых менеджеров для упрощения описания запросов;
+    - Налаживать инфраструктуру для тестирования, с тестовой БД (для изоляции
+      тестов от рабочей БД);
+    - Создать безопасную и поддерживаемую конфигурацию для подключения к БД.
+
+</details>
+
+<details>
+    <summary>SQL</summary>
+
+1. __Могу:__
+    - Подключиться к серверам PostgreSQL и MySql;
+    - Выполнять базовые и сложные запросы в БД.
 
 </details>
 
@@ -131,18 +167,6 @@
 
 </details>
 
-<details>
-    <summary>SQL</summary>
-
-1. __Могу:__
-    - Подключиться к серверам PostgreSQL и MySql;
-    - Выполнять базовые запросы в БД.
-
-2. __Изучаю:__
-    - Выполнение запросов к связанным таблицам.
-
-</details>
-
 ---
 
 <h3 align="center">Прошел курсы</h3>
@@ -155,7 +179,7 @@
 
 ---
 
-<h3 align="center">Изучаю</h3>
+<h3 align="center">Оттачиваю навыки по</h3>
 
 - FastAPI;
 - SQLAlchemy.
